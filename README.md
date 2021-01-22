@@ -1,6 +1,8 @@
 # Ghidra Frontend
 
-A HTML5 based frontend for Ghidra build with Vue.js.
+A modern HTML5 UI for Ghidra. Build with Vue.js.
+
+![Screenshot](doc/screenshot.png)
 
 I started working on this in January 2021 as a proof of concept. There is way more still to do than is done yet ;)
 

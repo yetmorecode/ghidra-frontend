@@ -1,21 +1,20 @@
-# Ghidra (ghidra-rest-frontend)
+# Ghidra Frontend
 
-Ghidra REST frontend
+A HTML5 based frontend for Ghidra build with Vue.js.
 
-## Install the dependencies
-```bash
-npm install
-```
+I started working on this in January 2021 as a proof of concept. There is way more still to do than is done yet ;)
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-npm run dev
-```
+## Features
 
-### Build the app for production
-```bash
-quasar build
-```
+* Open Projects and show project files
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+## Next Todos
+
+* Open Programs
+* Close Programs
+* Show Program datatypes
+* Show program functions
+
+## Development
+
+[Ghidra Frontend Development Guide](doc/development.md)
